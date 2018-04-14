@@ -1,0 +1,17 @@
+{
+  "name": "braking",
+  "version": "1.0.0",
+  "description": "Braking deviendera votre meilleur amis",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "MRwarcraft419",
+  "license": "MIT",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^11.3.0",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {}
+}
