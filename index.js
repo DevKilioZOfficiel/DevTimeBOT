@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
-const token = "MzYzNDY2Nzg5MDQyMTI2ODU4.DLB8Sw.EESDK9VsRlCbCOceyhw9PMclZ0Y";
+const token = process.env.TOKEN;
 const fs = require('fs');
 
 const low = require('lowdb');
