@@ -500,4 +500,4 @@ var autoRole = 'membres';
 
 });
   
-client.login(token)
+client.login(process.env.TOKEN)
